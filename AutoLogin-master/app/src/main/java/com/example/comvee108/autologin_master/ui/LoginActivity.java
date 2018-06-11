@@ -11,7 +11,7 @@ import com.example.comvee108.autologin_master.R;
 import com.example.comvee108.autologin_master.manage.UserManage;
 
 /**
- * 登录页面
+ * 登录页面，git测试
  * create by linbin
  */
 public class LoginActivity extends Activity {
