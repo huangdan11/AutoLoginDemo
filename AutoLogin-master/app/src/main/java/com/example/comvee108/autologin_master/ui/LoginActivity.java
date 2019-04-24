@@ -46,7 +46,7 @@ public class LoginActivity extends Activity {
         public void onClick(View view) {
 
             switch (view.getId()) {
-                case R.id.btn_login://登录2
+                case R.id.btn_login://登录3
                     String userName = edt_username.getText().toString();
                     String userPwd = edt_password.getText().toString();
                     UserManage.getInstance().saveUserInfo(LoginActivity.this, userName, userPwd);
