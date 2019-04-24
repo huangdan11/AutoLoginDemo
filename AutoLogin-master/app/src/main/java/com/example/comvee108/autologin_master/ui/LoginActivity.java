@@ -16,7 +16,7 @@ import com.example.comvee108.autologin_master.manage.UserManage;
  */
 public class LoginActivity extends Activity {
     /**
-     * 用户名
+     * 用户名1
      */
     private EditText edt_username;
 
