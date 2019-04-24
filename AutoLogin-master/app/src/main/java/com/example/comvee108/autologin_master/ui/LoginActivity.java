@@ -21,7 +21,7 @@ public class LoginActivity extends Activity {
     private EditText edt_username;
 
     /**
-     * 密码2
+     * 密码
      */
     private EditText edt_password;
 
