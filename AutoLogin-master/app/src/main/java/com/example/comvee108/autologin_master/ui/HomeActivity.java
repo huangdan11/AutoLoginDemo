@@ -6,7 +6,7 @@ import android.os.Bundle;
 import com.example.comvee108.autologin_master.R;
 
 /**
- * 主页界面
+ * 主页界面2
  */
 public class HomeActivity extends Activity {
 
